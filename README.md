@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-A panoramic of the principal algorithms of Reinforcement Learning
+A panoramic of the main algorithms of Reinforcement Learning
